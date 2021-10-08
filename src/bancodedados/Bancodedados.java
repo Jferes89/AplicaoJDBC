@@ -8,9 +8,9 @@ package bancodedados;
 import conexao.Conexao;
 
 
-import dao.CategoriaVacinaDao;
+
 import dao.insertTesteDao;
-import dto.CategoriaVacinaDTO;
+
 import java.sql.ResultSet;
 
 import java.util.ArrayList;
